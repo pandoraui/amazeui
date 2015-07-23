@@ -205,6 +205,7 @@ gulp.task('build:fonts', function() {
     .pipe(gulp.dest(config.dist.fonts));
 });
 
+// 打包 Common JS 模块
 var bundleInit = function() {
   var b = browserify({
     entries: './js/amazeui.js',
