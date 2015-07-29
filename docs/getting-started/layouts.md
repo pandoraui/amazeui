@@ -1,9 +1,9 @@
 ---
 id: layouts
 title: 布局示例
-titleEn: Layout examples
+titleEn: Layouts
 permalink: layouts.html
-next: getting-started/compatibility.html
+next: compatibility.html
 ---
 
 # 布局示例
