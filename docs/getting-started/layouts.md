@@ -1,9 +1,17 @@
+---
+id: layouts
+title: 布局示例
+titleEn: Layout examples
+permalink: layouts.html
+next: getting-started/compatibility.html
+---
+
 # 布局示例
 ---
 
 Amaze UI 目前提供几个常见的布局示例，供开发者参考，后续会增加更多示例。
 
----
+
 **关于图标显示异常的说明：**
 
 ~~为避免 `Mixed Content` 错误，Icon Font 的 URL 没有添加协议，直接使用磁盘路径 `file:///...` 打开时示例页面时无法正常显示图标，请放在 HTTP 服务中查看。~~
@@ -14,7 +22,6 @@ Amaze UI 目前提供几个常见的布局示例，供开发者参考，后续�
 - `cd` 到示例目录，`python -m SimpleHTTPServer`；
 - 或者使用其他 HTTP 服务器。
 
----
 
 ## 示例说明
 

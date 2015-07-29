@@ -368,6 +368,25 @@ gulp.task('appServer', function(callback) {
   callback();
 });
 
+// Preview server.
+gulp.task('site', function(callback) {
+  $.nodemon({
+    script: 'tools/site/app.js',
+    env: {
+      NODE_ENV: 'development'
+    },
+    stdout: false
+  }).on('readable', function() {
+    this.stdout
+      .pipe(bistre({time: true}))
+      .pipe(process.stdout);
+    this.stderr
+      .pipe(bistre({time: true}))
+      .pipe(process.stderr);
+  });
+  callback();
+});
+
 // gulp.task('init', ['bower', 'build', 'watch']);
 
 gulp.task('default', ['build', 'watch']);

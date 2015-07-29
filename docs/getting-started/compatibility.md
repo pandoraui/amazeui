@@ -1,4 +1,12 @@
-# Compatibility
+---
+id: compatibility
+title: 兼容性列表
+titleEn:  Compatibility
+permalink: compatibility.html
+next: getting-started/compatibility.html
+---
+
+# 兼容性列表 Compatibility
 ---
 
 Amaze UI 面向现代浏览器开发，对 IE 8/9 等浏览器只提供有限的支持。
