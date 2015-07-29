@@ -1,3 +1,13 @@
+---
+id: widget
+title: Web 组件规范
+titleEn: widget Guide
+permalink: widget.html
+prev: javascript.html
+next: faq.html
+---
+
+
 # Amaze UI Web 组件开发规范
 ---
 

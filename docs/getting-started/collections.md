@@ -2,8 +2,9 @@
 id: collections
 title: 收藏
 titleEn: Collections
-permalink: getting-started/webapp.html
-next: getting-started/project-structure.html
+permalink: collections.html
+prev: webapp.html
+next: project-structure.html
 ---
 
 

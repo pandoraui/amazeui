@@ -1,3 +1,13 @@
+---
+id: feedback
+title: Bug 反馈
+titleEn: Feedback
+permalink: feedback.html
+prev: faq.html
+next: next.html
+---
+
+
 # Bug 反馈
 ---
 

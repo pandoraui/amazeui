@@ -1,3 +1,13 @@
+---
+id: html-css
+title: HTML/CSS 规范
+titleEn: HTML/CSS Rules
+permalink: html-css.html
+prev: widget-dev.html
+next: javascript.html
+---
+
+
 # Amaze UI HTML/CSS 规范
 ---
 

@@ -1,3 +1,13 @@
+---
+id:  credits
+title: 感谢有你
+titleEn: Credits
+permalink: credits.html
+prev: next.html
+next: team.html
+---
+
+
 # Credits 鸣谢
 ---
 

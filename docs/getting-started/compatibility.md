@@ -3,7 +3,8 @@ id: compatibility
 title: 兼容性列表
 titleEn:  Compatibility
 permalink: compatibility.html
-next: getting-started/compatibility.html
+prev: layout.html
+next: webapp.html
 ---
 
 # 兼容性列表 Compatibility

@@ -1,3 +1,13 @@
+---
+id: project-structure
+title: 项目结构
+titleEn:  Project Structure
+permalink: project-structure.html
+prev: collections.html
+next: widget-dev.html
+---
+
+
 # 基于 Amaze UI 进阶开发
 ---
 

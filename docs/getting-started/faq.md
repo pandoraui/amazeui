@@ -1,3 +1,13 @@
+---
+id: faq
+title: 常见问题
+titleEn: FAQs
+permalink: faq.html
+prev: widget.html
+next: feedback.html
+---
+
+
 # 常见问题
 ---
 

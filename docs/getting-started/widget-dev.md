@@ -1,3 +1,13 @@
+---
+id: widget-dev
+title: Web 组件简介
+titleEn: Web Component
+permalink: widget-dev.html
+prev: collections.html
+next: html-css.html
+---
+
+
 # Web 组件简介
 ---
 

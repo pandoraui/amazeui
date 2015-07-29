@@ -3,6 +3,7 @@ id: layouts
 title: 布局示例
 titleEn: Layouts
 permalink: layouts.html
+prev: ../getting-started.html
 next: compatibility.html
 ---
 

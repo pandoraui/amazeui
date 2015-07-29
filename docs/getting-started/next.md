@@ -1,3 +1,13 @@
+---
+id: next
+title: 遇见未来
+titleEn: Next
+permalink: next.html
+prev: feedback.html
+next: credits.html
+---
+
+
 # The Next
 ---
 

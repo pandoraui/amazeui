@@ -1,3 +1,13 @@
+---
+id: team
+title: 开发者说
+titleEn: Team
+permalink: team.html
+prev: credits.html
+next: ../css.html
+---
+
+
 # 开发者说
 ---
 
