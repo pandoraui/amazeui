@@ -1,6 +1,25 @@
 # Amaze UI Change Log
 ---
 
+### 2015.08 W3
+
+**JS:**
+
+- `Fixed` #712 修复 Modal 在 Edge 中偏移、字体发虚的问题（包括 IE11 #387）；
+- `Fixed` #419 修复 Modal popup 在 IE 中标题栏偏移问题。
+
+### 2015.08 W1
+
+**JS:**
+
+- 处理 Browserify 输出 UMD 文件时没有添加 AMD 和 CommonJS 依赖的问题。
+
+### 2015.07 W4
+
+**CSS:**
+
+- `Fixed` Icon 图标使用 `<i>` 元素时在 IE9 中渲染为斜体问题。
+
 ### 2015.07 W2
 
 **JS:**
